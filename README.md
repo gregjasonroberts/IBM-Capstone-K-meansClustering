@@ -7,7 +7,7 @@ The consumer demand for child care, early education, and back-up care has grown 
 
 ## Business Problem:
 
-A fast growing client is determined to expand to other large metro areas and after internally reviewing the demographics with a segment of the largest cities in the country, have chosen Chicago and Washington, DC for the current review stage.  Due to the growing populations and high percentage of two-parent household working families, these cities were highlighted for closer inspection.  In particular, neighborhoods in these large hubs that shown a successful level of market penetration and competitor saturation. It is these neighborhoods that will reflect not only a substantial customer base to grow with, but a high likelihood of available labor as well.  
+A fast growing client is determined to expand to other large metro areas and after internally reviewing the demographics with a segment of the largest cities in the country, have chosen Chicago and Washington, DC for this current review stage.  Due to the growing populations and high percentage of two-parent household working families, these cities were highlighted for closer inspection.  In particular, neighborhoods in these large hubs that shown a successful level of market penetration and competitor saturation. It is these neighborhoods that will reflect not only a substantial customer base to grow with, but a high likelihood of available labor as well.  
 
 ## Problem Statement:
 
