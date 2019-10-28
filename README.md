@@ -19,6 +19,6 @@ The U.S. Census Bureau datasets were included using the Census.gov API.  These d
 
 - Part 2:  Neighborhood demographics that will indicate favorable environments for deployment.
 
-After circling Chicago and DC for closer review, web scraping technques were employed to create datasets from the respective neighborhood on Wikipedia websites.   Check out the detail behind those datasets for [Chicago](https://en.wikipedia.org/wiki/List_of_neighborhoods_in_Chicago/) and [Washington, DC](https://en.wikipedia.org/wiki/Neighborhoods_in_Washington,_D.C./)
+After circling Chicago and DC for closer review, web scraping technques were employed to create datasets from the respective neighborhood on Wikipedia websites.   Check out the detail behind those datasets for [Chicago](https://en.wikipedia.org/wiki/List_of_neighborhoods_in_Chicago) and [Washington, DC](https://en.wikipedia.org/wiki/Neighborhoods_in_Washington,_D.C.)
 
 
