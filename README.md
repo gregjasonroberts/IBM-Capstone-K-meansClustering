@@ -15,7 +15,7 @@ The data science team will provide data and insight on the more desirable neighb
 
 - Part 1:  Data summarizing top 20 U.S. city demographics for labor population and household size.
 
-The U.S. Census Bureau datasets were included using the Census.gov API.  These datasets were used to explore which cities were target rich environments for childcare services and warranted further inspection of surrounding neighborhoods.  The preliminary findings indicated that Chicago and Washington, DC satisfied our clients' requirements for a growing populous, both parents in the workforce with children below the age of 6.  Further review of the surrounding neighborhoods should yield areas with higher levels of competitor saturation indicating sufficient opportunity for growth and potential labor. 
+Alt-H2The U.S. Census Bureau datasets were included using the Census.gov API.  These datasets were used to explore which cities were target rich environments for childcare services and warranted further inspection of surrounding neighborhoods.  The preliminary findings indicated that Chicago and Washington, DC satisfied our clients' requirements for a growing populous, both parents in the workforce with children below the age of 6.  Further review of the surrounding neighborhoods should yield areas with higher levels of competitor saturation indicating sufficient opportunity for growth and potential labor. 
 
 - Part 2:  Neighborhood demographics that will indicate favorable environments for deployment.
 
