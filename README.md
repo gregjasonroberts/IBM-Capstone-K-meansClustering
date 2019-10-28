@@ -1,4 +1,3 @@
-## Demographic decision-making tool for a fast growing daycare services business.  
 
 This file and other associated files constitute my submission to the IBM Applied Data Science Capstone project on Coursera.  This project represents my file submission in a 9-part Data Science certificcaiton program.  
 
