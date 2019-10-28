@@ -3,7 +3,7 @@ This file and other associated files constitute my submission to the IBM Applied
 
 ## Module 9 - Repository for IBM Capstone Project Notebook 
 
-The consumer demand for child care, early education, and back-up care has grown in recent years in concert with the growing number of working family households.  Given many families continue to migrate within the suburbs of large metro areas, those cities offer proximity to work however surrounding facilities with cost effective adequate level of services for their children.  
+The consumer demand for child care, early education, and back-up care has grown in recent years in concert with the growing number of working family households.  Given many families continue to migrate within the suburbs of large metro areas, those cities offer proximity to work however an equally greater demand for surrounding facilities with cost effective adequate level of services for their children.  
 
 ## Business Problem:
 
