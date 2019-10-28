@@ -19,6 +19,6 @@ Data source: The U.S. Census Bureau datasets were included using the Census.gov 
 
 - Part 2:  Neighborhood demographics that will indicate favorable environments for deployment.
 
-Data source: After circling Chicago and DC for closer review, web scraping techniques were employed to create datasets from the respective neighborhood on Wikipedia websites.   You can review the detail behind those datasets respectively for [Chicago (https://en.wikipedia.org/wiki/List_of_neighborhoods_in_Chicago)} and [Washington, DC (https://en.wikipedia.org/wiki/Neighborhoods_in_Washington,_D.C.)}
+Data source: After circling Chicago and DC for closer review, web scraping techniques were employed to create datasets from the respective neighborhood on Wikipedia websites.   You can review the detail behind those datasets respectively for Chicago (https://en.wikipedia.org/wiki/List_of_neighborhoods_in_Chicago) and Washington, DC (https://en.wikipedia.org/wiki/Neighborhoods_in_Washington,_D.C.)
 
 
