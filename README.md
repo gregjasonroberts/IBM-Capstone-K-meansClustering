@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Demographic decision-making tool for a fast growing daycare services business.  
 
-You can use the [editor on GitHub](https://github.com/gregroberts-datascientist/gregroberts-datascientist.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This file and other associated files constitute my submission to the IBM Applied Data Science Capstone project on Coursera.  This project represents my file submission in a 9-part Data Science certificcaiton program.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Module 9 - Repository for IBM Capstone Project Notebook 
 
-### Markdown
+The consumer demand for child care,early education, and back-up care has grown in recent years in concert with the growing number of working family households.  Given many families continue to migrate within the suburbs of large metro areas, those cities offer proximity to work but has taxed the surrounding faciities with an adequate level of services for their children.  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Business Problem:
 
-```markdown
-Syntax highlighted code block
+A fast growing client has recongized the need to expand to other large metro areas and after internally reviewing the demographics with a segment of the largest cities in the country, have chosen Chicago and Philadelphia for the current review stage.  Due to the growing populations and high percentage of two-parent household working families, these cities were highilighted for closer inspection.  In particular, neighborhoods in these large hubs that shown a successful level of market penetration and competitor saturation. It is these neighborhoods that will reflect not only a substantial customer base to grow with, but a high likelihood of available labor as well.  
 
-# Header 1
-## Header 2
-### Header 3
+# Problem Statement:
 
-- Bulleted
-- List
+The data science team will provide data and insight on the more desirable neighborhoods to target by implemnting the following data sets and techniques:
 
-1. Numbered
-2. List
+- Part 1:  
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gregroberts-datascientist/gregroberts-datascientist.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
