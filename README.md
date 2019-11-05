@@ -1,7 +1,7 @@
 
 This file and other associated files constitute my submission to the IBM Applied Data Science Capstone project on Coursera.  This project represents my file submission in a 9-part Data Science certification program.  
 
-## Module 9 - Repository for IBM Capstone Project Notebook 
+## Repository for IBM Capstone Project Notebook 
 
 The consumer demand for child care, early education, and back-up care has grown in recent years in concert with the growing number of working family households.  Many families continue to migrate within the suburbs of large metro areas and given those cities offer proximity to work there's an equally significant demand for surrounding facilities with cost effective services for their children.  
 
