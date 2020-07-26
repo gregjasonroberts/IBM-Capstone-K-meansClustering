@@ -1,5 +1,5 @@
 
-This file and other associated files constitute my submission to the IBM Applied Data Science Capstone project on Coursera.  This project represents my file submission in a 9-part Data Science certification program.  
+This file and other associated files constitute my submission to the IBM Applied Data Science Capstone project on Coursera.  This project represents my file submission in a 9-part Data Science certification program.  Tools used include: Web scraping, Foursquare API, U.S. Census Data API.
 
 ## Repository for IBM Capstone Project Notebook 
 
